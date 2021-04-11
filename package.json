@@ -1,0 +1,17 @@
+{
+  "name": "process-cycler",
+  "version": "1.0.0",
+  "description": "Simple node cli tool to cycle script execution",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": "Bruno Paolillo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chance": "^1.1.7",
+    "dotenv": "^8.2.0",
+    "inquirer": "^8.0.0",
+    "proxifly": "^1.0.10",
+    "puppeteer": "^8.0.0"
+  }
+}
